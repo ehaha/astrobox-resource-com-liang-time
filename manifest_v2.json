@@ -1,0 +1,60 @@
+{
+  "item": {
+    "id": "com.liang.time",
+    "restype": "quick_app",
+    "name": "命运交易",
+    "description": "一个轮回交易小游戏，首创秒级更新的股票，内有股票、彩票、摆摊、赌博、卡牌机制等，多玩法体验人生，有少量剧情。\n如果遇到重庆现象是正常的，该游戏每秒都在计算，资源需求大。\n售价4元。\n最近更新：1.赌博bug",
+    "preview": [
+      "media/mingyun (1).png",
+      "media/01_yanzheng.png",
+      "media/pro-2026-05-09-22-19-06.png",
+      "media/17_caipiao.png",
+      "media/21_yanfa.png",
+      "media/25_stall.png",
+      "media/28_wode.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/mingyun (1).png",
+    "author": [
+      {
+        "name": "良木逸云",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "激活链接",
+      "url": "https://yanzheng.kgliang.top/",
+      "icon": "Link"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.8",
+      "file_name": "downloads/com.liang.time.release.1.0.8.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.8",
+      "file_name": "downloads/com.liang.time.release.1.0.8.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.8",
+      "file_name": "downloads/com.liang.time.release.1.0.8.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.8",
+      "file_name": "downloads/com.liang.time.release.1.0.8.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.8",
+      "file_name": "downloads/com.liang.time.release.1.0.8.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
